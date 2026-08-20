@@ -4,3 +4,8 @@ npm init -y создаёт package.json. npm install nameLibrary ставит б
 
 День 2 - Начинаю изучение Git-a и работы с ветками, регистрирую GitHub
 
+git status   →  посмотреть, что изменилось
+git add .    →  подготовить
+git commit -m "что сделал"   →  сохранить ** Запомнить **
+
+asdsdsad
